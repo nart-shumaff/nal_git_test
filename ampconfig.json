@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.4",
+  "appInfo": {
+    "name": "nal test ",
+    "description": "",
+    "version": "ypacdlhi",
+    "id": "cl259n74j32020801s6k0lcoza4",
+    "url": "https://app.amplication.com/cl259n74j32020801s6k0lcoza4",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl259n74j32020801s6k0lcoza4",
+      "authProvider": "Jwt"
+    }
+  }
+}
